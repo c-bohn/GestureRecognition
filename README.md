@@ -1,1 +1,1 @@
-For this project we used some provided, copyrighted skeleton code, therefore, unfortunately I cannot make our code publicly available. I do think, however, that the desription in the project report already provides some good insight on our work. 
+For this project we used some provided, but copyrighted skeleton code, therefore, unfortunately I cannot make our code publicly available. I do think, however, that the desription in the project report already provides some good insight on our work. 
